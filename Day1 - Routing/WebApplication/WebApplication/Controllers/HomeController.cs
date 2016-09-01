@@ -19,7 +19,7 @@ namespace WebApplication.Controllers
             ViewBag.Message = "WebApplication: AnotherIndex ID = " + id;
             return View("Index");
         }
-
+        
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
@@ -27,6 +27,7 @@ namespace WebApplication.Controllers
             return View();
         }
 
+        [HttpPost]
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";

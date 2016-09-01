@@ -8,7 +8,7 @@ namespace AdditionalLibrary
 {
     public class HomeController : Controller
     {       
-        [HttpGet]
+        //[HttpGet]
         public ActionResult Index(string id = "Default Id")
         {            
             string data = "Json Result from Additional controller";
@@ -16,7 +16,7 @@ namespace AdditionalLibrary
             return Json(data, JsonRequestBehavior.AllowGet);     
         }
 
-        [HttpGet]
+        //[HttpGet]
         public ActionResult AnotherIndex(string id = "Default Id")
         {            
             string data = "AnotherIndex from Additional controller: ID = " + id;

@@ -1,0 +1,6 @@
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.Tests.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.Tests.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\bin\Debug\Machine.Specifications.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\obj\Debug\WebApplication.Tests.csprojResolveAssemblyReference.cache
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\obj\Debug\WebApplication.Tests.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\obj\Debug\WebApplication.Tests.pdb
