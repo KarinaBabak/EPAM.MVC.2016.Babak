@@ -27,9 +27,7 @@ D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Ad
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Castle.Core.dll
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Machine.Specifications.Clr4.dll
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Machine.Specifications.dll
-D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Moq.dll
-D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Helpers.dll
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Mvc.dll
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Razor.dll
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
@@ -50,7 +48,6 @@ D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Ad
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.pdb
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Castle.Core.xml
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Moq.xml
-D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Helpers.xml
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Mvc.xml
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Razor.xml
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.WebPages.xml
