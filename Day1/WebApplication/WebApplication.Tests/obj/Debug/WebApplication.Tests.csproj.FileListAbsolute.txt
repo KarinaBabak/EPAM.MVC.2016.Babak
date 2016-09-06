@@ -1,0 +1,75 @@
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.Tests.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.Tests.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\bin\Debug\Machine.Specifications.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\obj\Debug\WebApplication.Tests.csprojResolveAssemblyReference.cache
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\obj\Debug\WebApplication.Tests.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1 - Routing\WebApplication\WebApplication.Tests\obj\Debug\WebApplication.Tests.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\obj\Debug\WebApplication.Tests.csprojResolveAssemblyReference.cache
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\obj\Debug\WebApplication.Tests.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\obj\Debug\WebApplication.Tests.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\ApplicationInsights.config
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\csc.exe
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\vbc.exe
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.Tests.dll.config
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.Tests.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.Tests.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\AdditionalLibrary.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Castle.Core.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Machine.Specifications.Clr4.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Machine.Specifications.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Moq.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Razor.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Owin.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\EntityFramework.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\AdditionalLibrary.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\WebApplication.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Castle.Core.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Moq.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Razor.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\EntityFramework.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Machine.Specifications.Should.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Machine.TestAdapter.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Mono.Cecil.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\WebApplication.Tests\bin\Debug\Machine.TestAdapter.pdb
