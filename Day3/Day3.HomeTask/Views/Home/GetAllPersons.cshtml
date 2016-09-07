@@ -1,7 +1,14 @@
-﻿
+﻿@using Day3.HomeTask.Models;
+@model IEnumerable<Person>
+
 @{
     ViewBag.Title = "GetAllPersons";
 }
 
-<h2>GetAllPersons</h2>
+<h2>All Persons</h2>
+
+@foreach (var item in Model)
+{
+    <h2>@item.Name</h2>
+}
 

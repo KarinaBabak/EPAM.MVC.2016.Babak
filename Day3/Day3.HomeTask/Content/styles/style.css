@@ -6,4 +6,18 @@
 body {
 }
 
+.add-user {
+    text-align: center;
+}
+
+.edit-field {
+    float: left;
+    margin-bottom: 10px;
+    width: 75px;
+}
+
+.edit-label {
+    float: left;
+    clear: left;
+}
 
