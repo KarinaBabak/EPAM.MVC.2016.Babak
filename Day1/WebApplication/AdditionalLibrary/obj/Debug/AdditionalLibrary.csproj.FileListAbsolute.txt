@@ -33,3 +33,21 @@ D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\AdditionalLibrary\bin\Debug\Syste
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.WebPages.Razor.xml
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\AdditionalLibrary\obj\Debug\AdditionalLibrary.dll
 D:\Epam\!Lab\ASP NET\Tasks\Day1\WebApplication\AdditionalLibrary\obj\Debug\AdditionalLibrary.pdb
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\AdditionalLibrary.dll
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\AdditionalLibrary.pdb
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.Helpers.dll
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.Mvc.dll
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.Razor.dll
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.WebPages.dll
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.Helpers.xml
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.Mvc.xml
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.Razor.xml
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.WebPages.xml
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\obj\Debug\AdditionalLibrary.dll
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\obj\Debug\AdditionalLibrary.pdb
+C:\Users\Karyna_Babak\Downloads\Lab\MVC\Day1\WebApplication\AdditionalLibrary\obj\Debug\AdditionalLibrary.csprojResolveAssemblyReference.cache
