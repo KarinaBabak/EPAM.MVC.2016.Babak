@@ -85,6 +85,5 @@ D:\Epam\!Lab\ASP NET\Tasks\Day2\Day2.HomeTask\Day2.HomeTask\bin\System.Web.Webpa
 D:\Epam\!Lab\ASP NET\Tasks\Day2\Day2.HomeTask\Day2.HomeTask\bin\System.Web.Webpages.Razor.xml
 D:\Epam\!Lab\ASP NET\Tasks\Day2\Day2.HomeTask\Day2.HomeTask\bin\System.Web.Helpers.xml
 D:\Epam\!Lab\ASP NET\Tasks\Day2\Day2.HomeTask\Day2.HomeTask\bin\System.Web.Mvc.xml
-D:\Epam\!Lab\ASP NET\Tasks\Day2\Day2.HomeTask\Day2.HomeTask\obj\Debug\Day2.HomeTask.csprojResolveAssemblyReference.cache
 D:\Epam\!Lab\ASP NET\Tasks\Day2\Day2.HomeTask\Day2.HomeTask\obj\Debug\Day2.HomeTask.dll
 D:\Epam\!Lab\ASP NET\Tasks\Day2\Day2.HomeTask\Day2.HomeTask\obj\Debug\Day2.HomeTask.pdb

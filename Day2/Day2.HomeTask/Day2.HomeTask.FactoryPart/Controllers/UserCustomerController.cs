@@ -7,13 +7,13 @@ using System.Web.Mvc;
 
 namespace Day2.HomeTask.FactoryPart.Controllers
 {
-    public class UserController : Controller
+    public class UserCustomerController : Controller
     {
         public ActionResult Index()
         {
             return View("Result", new ResultViewModel
             {
-                ControllerName = "UserController",
+                ControllerName = "UserCustomerController",
                 ActionName = "Index"
             });
         }

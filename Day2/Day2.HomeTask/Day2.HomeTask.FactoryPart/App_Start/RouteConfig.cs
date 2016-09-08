@@ -13,6 +13,21 @@ namespace Day2.HomeTask.FactoryPart
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+            routes.MapRoute("User", "User/{action}",
+            new
+            {
+                controller = "UserCustomer",
+                action = "Index"
+            });
+
+            routes.MapRoute("Customer", "Customer/{action}",
+            new
+            {
+                controller = "UserCustomer",
+                action = "Index"
+            });
+
+
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",

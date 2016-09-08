@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Day2.HomeTask.FactoryPart.Controllers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
@@ -14,18 +15,12 @@ namespace Day2.HomeTask.FactoryPart.Infrastructure
             Type targetType = null;
             switch (controllerName)
             {
-                case "Customer":
-                    targetType = typeof(UserController);
-                    break;
-                case "User":
-                    targetType = typeof(UserController);
-                    break;
+                case "UserCustomer":
+                    targetType = typeof(UserCustomerController);
+                    break;                
                 case "Home":
                     targetType = typeof(HomeController);
-                    break;
-                case "Base":
-                    targetType = typeof(BaseController);
-                    break;
+                    break;               
                 case "Admin":
                     if (!requestContext.HttpContext.Request.IsLocal)
                     {
