@@ -40,11 +40,14 @@ namespace Day3.HomeTask.Controllers
             return PartialView("_header", person);
         }
 
-        [HttpPost]
         public ActionResult ChangeSide(Person person)
         {
-            return null;
+            Person personToChange = PersonRepository.GetPersons().Where(p => p.Name == person.Name).FirstOrDefault();
+            personToChange.ChangeSide();
+            return View("DisplayPersonInfo", personToChange);
         }
+
+        
 
     }
 }

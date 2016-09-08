@@ -15,5 +15,10 @@ namespace Day3.HomeTask.Models
     {
         public Faction Role { get; set; }
         public string Name { get; set; }
+
+        public void ChangeSide()
+        {
+            this.Role = Faction.Dark;           
+        }
     }
 }

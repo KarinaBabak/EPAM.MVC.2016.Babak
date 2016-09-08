@@ -1,6 +1,8 @@
-﻿<p>Join other side</p>
-<button type="button" id="changeSide">Yes</button>
-<button type="button" id="notChangeSide">No</button>
-    <script>
+﻿@using Day3.HomeTask.Models
+@model Person
 
-    </script>
+<p>Join other side?</p>
+@Html.ActionLink("Yes", "ChangeSide", "Home", Model, new { @class = "btn btn-default", @id = "btnChangeSide" })
+
+
+   

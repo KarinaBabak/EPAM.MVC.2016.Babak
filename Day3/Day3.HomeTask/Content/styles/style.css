@@ -7,7 +7,9 @@ body {
 }
 
 .add-user {
-    text-align: center;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
 }
 
 .edit-field {
@@ -19,5 +21,39 @@ body {
 .edit-label {
     float: left;
     clear: left;
+}
+
+.faction-header
+{    
+    color:white;
+    font-size:18px;
+    z-index:1;    
+}
+
+.label-field {
+    display: inline-block;
+    margin: 15px 15px 5px 0;
+    font-weight: bold;
+    font-size:18px;
+    
+}
+
+.name-text {
+    height:20px;
+    width:120px;
+}
+
+.send-btn {
+    text-align:center;
+    height:30px;
+    width:60px;
+    margin-top: 20px;
+}
+
+.img-logo {
+    width: 60px;
+    height: 60px;
+    margin: 2px 0 0 5px;
+    vertical-align:middle;
 }
 

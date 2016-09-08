@@ -1,9 +1,8 @@
 ﻿@using Day3.HomeTask.Models
-@using System.Web.Script
 
 @model Day3.HomeTask.Models.Person
 
-<link href="/Content/styles/style.css" rel="stylesheet" type="text/css">
+
 @{
     ViewBag.Title = "Index";
     
@@ -12,24 +11,23 @@
     @using (@Html.BeginForm("Index", "Home"))
     {
         @Html.AntiForgeryToken()
-        @Html.ValidationSummary(true, "", new { @class = "text-error" })
 
-    <div class="editor-label">
-        @Html.LabelFor(m => m.Name)
-    </div>
-    <div class="editor-field">
-        @Html.TextBoxFor(m => m.Name)
-    </div>
 
-    <div class="editor-field">
+        @Html.LabelFor(m => m.Name, new { @class = "label-field" })
+        @Html.TextBoxFor(m => m.Name, new { @class = "name-text" })
+
+        <p></p>
+        @Html.LabelFor(m => m.Role, "Faction", new { @class = "label-field" })
         @Html.DropDownListFor(model => model.Role,
-            new SelectList(Enum.GetNames(typeof(Faction))), string.Empty)
-    </div>
+            new SelectList(Enum.GetNames(typeof(Faction))), string.Empty, new { @class = "name-text" })
         <p>
-            <input type="submit" value="Send" />
+            <input type="submit" value="Send" class="send-btn"/>
         </p>
+
     }
 </div>
-    
+
+       
+
 
 

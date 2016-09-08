@@ -1,6 +1,14 @@
 ﻿@using Day3.HomeTask.Models
 @model Day3.HomeTask.Models.Person
 
-<div class="navbar navbar-inverse navbar-fixed-top" style="color:white">
+@if (Model.Role == Faction.Dark)
+{
+<img class="navbar navbar-inverse navbar-fixed-top img-logo" src="~/Content/images/dark_logo.png" />
+}
+else
+{
+    <img class="navbar navbar-inverse navbar-fixed-top img-logo" src="~/Content/images/light_logo.jpg" />
+}
+<div class="faction-header">
     <h2>@Model.Role</h2>
 </div>

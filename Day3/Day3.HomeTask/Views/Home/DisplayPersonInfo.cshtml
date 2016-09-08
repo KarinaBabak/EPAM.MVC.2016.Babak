@@ -1,13 +1,37 @@
-﻿@model Day3.HomeTask.Models.Person
+﻿@using Day3.HomeTask.Models
+
+@model Day3.HomeTask.Models.Person
 @{
     ViewBag.Title = "DisplayPersonInfo";
 }
 
-@Html.Partial("_header")
+@section header
+{
+    @Html.Partial("_header")
+}
 
 <h2>Person Info</h2>
 
-<h3><b>Name</b> @Model.Name</h3>
+<h3><b>Name:</b> @Model.Name</h3>
 <h3><b>Faction:</b> @Model.Role</h3>
 
-@Html.Partial("_changeSide")
+@if (Model.Role == Faction.Dark)
+{
+    @section scripts
+        {
+    <script type="text/javascript">
+        (function ($) {
+            $("body").css('background', '#696969');
+        })(jQuery);
+    </script>
+    }
+}
+
+@section footer
+{
+    @Html.Partial("_changeSide")
+}
+
+    
+
+
