@@ -1,0 +1,26 @@
+﻿@using Day2.HomeTask.Models
+@model Day2.HomeTask.Models.UserViewModel
+
+@{
+    ViewBag.Title = "AddUser";
+}
+
+<h2>Adding User</h2>
+
+<div class="add-user">
+    @using (@Html.BeginForm("Add-User", "UserCustomer", FormMethod.Post))
+    {
+
+        @Html.LabelFor(m => m.FirstName, new { @class = "label-field" })
+        @Html.TextBoxFor(m => m.FirstName, new { @class = "name-text" })
+        <p></p>
+        @Html.LabelFor(m => m.LastName, new { @class = "label-field" })
+        @Html.TextBoxFor(m => m.LastName, new { @class = "name-text" })
+
+
+        <p>
+            <input type="submit" value="Add" class="add-btn" />
+        </p>
+
+    }
+</div>

@@ -12,17 +12,26 @@ namespace Day2.HomeTask
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+                        
 
-
-            routes.MapRoute("UserCustomerRoute", "User/{action}",
+            routes.MapRoute("UserAdd", "User/{action}/{id}",
             new
             {
-                controller = "UserCustomerController",
-                action = "AddUser"
-            },
-            new { httpMethod = new HttpMethodConstraint("POST") });
-            
+                controller = "UserCustomer",
+                action = "Add-User",
+                id = UrlParameter.Optional
+            });
 
+            routes.MapRoute("CustomerAdd", "Customer/{action}/{id}",
+            new
+            {
+                controller = "UserCustomer",
+                action = "Add-User",
+                id = UrlParameter.Optional
+            });
+
+           
+                     
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",

@@ -1,0 +1,44 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+
+body {
+}
+
+.add-user {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+.edit-field {
+    float: left;
+    margin-bottom: 10px;
+    width: 75px;
+}
+
+.edit-label {
+    float: left;
+    clear: left;
+}
+
+.label-field {
+    display: inline-block;
+    margin: 15px 15px 5px 0;
+    font-weight: bold;
+    font-size:18px;
+    
+}
+
+.name-text {
+    height:20px;
+    width:120px;
+}
+
+.add-btn {
+    text-align:center;
+    height:30px;
+    width:60px;
+    margin-top: 20px;
+}

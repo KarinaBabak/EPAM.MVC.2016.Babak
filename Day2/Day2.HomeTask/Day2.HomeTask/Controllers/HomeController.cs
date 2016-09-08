@@ -7,7 +7,7 @@ using Day2.HomeTask.Models;
 
 namespace Day2.HomeTask.Controllers
 {
-    public class HomeController : BaseController //Controller
+    public class HomeController : BaseController 
     {
         // GET: Home
         public ActionResult Index()
