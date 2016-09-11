@@ -1,0 +1,37 @@
+﻿@using Models.Models
+@model IEnumerable<Address>
+@{
+    ViewBag.Title = "Addresses";
+}
+
+<h2>Addresses</h2>
+
+@if (!Model.Any())
+{
+    using (Html.BeginForm())
+    {
+        for (int i = 0; i < 3; i++)
+        {
+            <fieldset>
+                <legend>Address @(i + 1) </legend>
+                <div>
+                    <label>City:</label>@Html.Editor("[" + i + "].City")
+                </div>
+                <div>
+                    <label>Country:</label>@Html.Editor("[" + i + "].Country")
+                </div>
+            </fieldset>
+        }
+        <button type="submit">Submit</button>
+    }
+
+
+}
+else
+{
+    foreach (var item in Model)
+    {
+        <p>@item.City,@item.Country</p>
+    }
+    @Html.ActionLink("Back", "Addresses");
+}

@@ -1,0 +1,83 @@
+C:\LectureProj\NetLab\Models\Models\bin\Models.dll.config
+C:\LectureProj\NetLab\Models\Models\bin\Models.dll
+C:\LectureProj\NetLab\Models\Models\bin\Models.pdb
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Helpers.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Mvc.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Razor.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.Deployment.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.Razor.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Razor.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.Deployment.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.Razor.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Helpers.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Mvc.xml
+C:\LectureProj\NetLab\Models\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\LectureProj\NetLab\Models\Models\obj\Debug\Models.dll
+C:\LectureProj\NetLab\Models\Models\obj\Debug\Models.pdb
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.dll
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Common.dll
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Mvc.dll
+C:\LectureProj\NetLab\Models\Models\bin\WebActivator.dll
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.pdb
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.xml
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Common.pdb
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Common.xml
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Mvc.pdb
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Mvc.xml
+D:\Google chrome\Models\Models\Models\bin\Models.dll.config
+D:\Google chrome\Models\Models\Models\bin\Models.dll
+D:\Google chrome\Models\Models\Models\bin\Models.pdb
+D:\Google chrome\Models\Models\Models\bin\Microsoft.Web.Infrastructure.dll
+D:\Google chrome\Models\Models\Models\bin\Ninject.dll
+D:\Google chrome\Models\Models\Models\bin\Ninject.Web.Common.dll
+D:\Google chrome\Models\Models\Models\bin\Ninject.Web.Mvc.dll
+D:\Google chrome\Models\Models\Models\bin\System.Web.Helpers.dll
+D:\Google chrome\Models\Models\Models\bin\System.Web.Mvc.dll
+D:\Google chrome\Models\Models\Models\bin\System.Web.Razor.dll
+D:\Google chrome\Models\Models\Models\bin\System.Web.Webpages.Deployment.dll
+D:\Google chrome\Models\Models\Models\bin\System.Web.Webpages.dll
+D:\Google chrome\Models\Models\Models\bin\System.Web.Webpages.Razor.dll
+D:\Google chrome\Models\Models\Models\bin\WebActivator.dll
+D:\Google chrome\Models\Models\Models\bin\Ninject.pdb
+D:\Google chrome\Models\Models\Models\bin\Ninject.xml
+D:\Google chrome\Models\Models\Models\bin\Ninject.Web.Common.pdb
+D:\Google chrome\Models\Models\Models\bin\Ninject.Web.Common.xml
+D:\Google chrome\Models\Models\Models\bin\Ninject.Web.Mvc.pdb
+D:\Google chrome\Models\Models\Models\bin\Ninject.Web.Mvc.xml
+D:\Google chrome\Models\Models\Models\bin\System.Web.Razor.xml
+D:\Google chrome\Models\Models\Models\bin\System.Web.Webpages.xml
+D:\Google chrome\Models\Models\Models\bin\System.Web.Webpages.Deployment.xml
+D:\Google chrome\Models\Models\Models\bin\System.Web.Webpages.Razor.xml
+D:\Google chrome\Models\Models\Models\bin\System.Web.Helpers.xml
+D:\Google chrome\Models\Models\Models\bin\System.Web.Mvc.xml
+D:\Google chrome\Models\Models\Models\obj\Debug\Models.dll
+D:\Google chrome\Models\Models\Models\obj\Debug\Models.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Models.dll.config
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Models.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Models.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Ninject.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Ninject.Web.Common.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Ninject.Web.Mvc.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Helpers.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Mvc.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Razor.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Webpages.Deployment.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Webpages.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Webpages.Razor.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\WebActivator.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Ninject.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Ninject.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Ninject.Web.Common.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Ninject.Web.Common.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Ninject.Web.Mvc.pdb
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\Ninject.Web.Mvc.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Razor.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Webpages.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Webpages.Deployment.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Webpages.Razor.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Helpers.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\bin\System.Web.Mvc.xml
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\obj\Debug\Models.dll
+D:\Epam\!Lab\ASP NET\Tasks\Day4\Models\Models\obj\Debug\Models.pdb

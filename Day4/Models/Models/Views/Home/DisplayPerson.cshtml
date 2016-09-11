@@ -1,0 +1,20 @@
+﻿@model Models.Models.Person
+@{
+    ViewBag.Title = "DisplayPerson";
+}
+
+<h2>Person Information</h2>
+
+@Html.LabelFor(m => m.FirstName, new { @class = "col-xs-1" })
+@Html.DisplayFor(m => m.FirstName)
+<p></p>
+@Html.LabelFor(m => m.LastName, new { @class = "col-xs-1" })
+@Html.DisplayFor(m => m.LastName)
+
+<p></p>
+@Html.LabelFor(m => m.Role, new { @class = "col-xs-1" })
+@Html.DisplayFor(m => m.Role)
+
+<p></p>
+@Html.LabelFor(m => m.HomeAddress, new { @class = "col-xs-2" })
+@Html.DisplayFor(m => m.HomeAddress)
